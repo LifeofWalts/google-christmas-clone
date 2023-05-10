@@ -7,5 +7,5 @@ button.addEventListener('click', function() {
   const body = document.querySelector('body');
 
   // Change the background color
-  body.style.backgroundColor = '#44576D';
+  body.style.backgroundColor = '#DFEBF6';
 });
