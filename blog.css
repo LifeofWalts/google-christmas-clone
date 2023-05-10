@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+  }
+  
+  #blog-posts {
+    margin-top: 20px;
+  }
+  
+  .blog-post {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #E6E6E6;
+  }
+  
+  .blog-post h3 {
+    margin-top: 0;
+  }
+  
+  .blog-post p {
+    margin-bottom: 10px;
+  }
+  
+  .blog-post img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .blog-post video {
+    width: 100%;
+  }
+  
+  #blog-form {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  #blog-form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  #blog-form input,
+  #blog-form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  #blog-form button {
+    background-color: #44576D;
+    color: #DFEBF6;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
